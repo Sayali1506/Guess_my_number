@@ -2,6 +2,7 @@
 This is a simple javascript based game built with the purpose of learningg DOM Manipulation.
 
 Link to play: https://1-guess-number.netlify.app/
+
 Rules of the Game:
 1) The number to guess will be between 0 to 20 only.
 2) If no input is intered in the input box, and check button is clicked, then "No number" message will be shown and no changes will be visible in the highscores.
